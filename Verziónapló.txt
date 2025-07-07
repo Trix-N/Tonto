@@ -1,0 +1,13 @@
+Projekt neve: ,aka Project_
+Legfrissebb verzió: v1 - 2025.MM.DD.
+Main kód:.py
+Könyvtárak:- 
+Kezdeti dátum: 2025.MM.DD.
+Szerző: Lipécz Ákos András, aka Natrix
+
+Alap:
+	Könyvtár importok, fájlkezelések, template kódfájl kitöltése.
+
+v1:	
+	
+Fejlesztési javaslat:  
